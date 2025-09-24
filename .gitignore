@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datasets
+datasets/*.csv
+datasets/*.json
+
+# Logs
+*.log
+
+# Env
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
